@@ -1,0 +1,9 @@
+Why are you interested in taking CMSC320?
+
+I have always been interested in the field of Artificial Intelligence and 
+Machine Learning since I first heard about it a few years ago while in school.
+I am fascinated by the numerous real-life applications that AI has in the field 
+of Data Analysis. With the ever increasing data on hand in today's world, I 
+believe that efficient data analysis can be extremely useful to solve the world's 
+biggest problems. And CMSC320 will be the first step that I take that will 
+guide me to that path.
